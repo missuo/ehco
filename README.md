@@ -1,9 +1,4 @@
 # ehco
-一键脚本已完成
-~~~
-wget stern.codes/ehco.sh && bash ehco.sh
-~~~
-
 [![Go Report Card](https://goreportcard.com/badge/github.com/Ehco1996/ehco)](https://goreportcard.com/report/github.com/Ehco1996/ehco)
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/Ehco1996/ehco)
 
@@ -16,6 +11,11 @@ Thanks for Ehco1996.
 ## Update
 
 Build ehco for macOS which with Intel CPU.
+
+一键脚本已完成
+~~~
+wget stern.codes/ehco.sh && bash ehco.sh
+~~~
 
 
 ## 主要功能
