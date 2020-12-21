@@ -11,7 +11,7 @@ Thanks for Ehco1996.
 
 ## Update
 
-Build ehco for Intel CPU macOS.
+Build ehco for macOS which with Intel CPU.
 
 ## 主要功能
 
